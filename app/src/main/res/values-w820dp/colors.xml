@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#323a45</color>
+    <color name="colorAccent">#4bb04f</color>
+    <color name="white">#ffffff</color>
+    <color name="lightGray">#f1f1f1</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="grayDisabled">#9e9e9e</color>
+    <color name="darkGray">#757575</color>
+    <color name="gold">#c4a32c</color>
+    <color name="black">#010101</color>
+    <color name="green">#388e3c</color>
+    <color name="light_gray">#eeeeee</color>
+    <color name="very_light_gray">#fafafa</color>
+    <color name="red">#ee5a8a</color>
+    <color name="pink">#ed617b</color>
+    <color name="purple">#a748b7</color>
+    <color name="purple2">#9c27b0</color>
+    <color name="purple3">#7052ae</color>
+    <color name="navyBlue">#5665ba</color>
+    <color name="blue">#50b6ff</color>
+    <color name="darkGreen">#149688</color>
+    <color name="dirtGreen">#617d8a</color>
+    <color name="dirtGreen2">#546e7a</color>
+    <color name="sky_black">#212121</color>
+    <color name="orange">#f4511e</color>
+
+    <color name="lightBlue">#3f81fb</color>
+    <color name="lightGreen">#3aa418</color>
+    <color name="lightOrange">#fb651b</color>
+
+
+
+
+    <color name="colorSecondary">#323a45</color>
+    <color name="colorPrimaryDark">#607d8b</color>
+
+    <color name="colorfilter">#a49b9b9b</color>
+
+    <color name="color_white">#ffffff</color>
+
+    <color name="color_back">#fafafa</color>
+    <color name="color_disabled">#e1e1e1</color>
+
+    <color name="color_gray">#f9e4e4e4</color>
+    <color name="color_header">#f1f1f1</color>
+    <color name="color_default">#00e4e4e4</color>
+    <color name="color_txt">#757575</color>
+    <color name="color_tint">#999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="header">#4a545a</color>
+
+    <color name="first_color">#2196F3</color>
+    <color name="second_color">#03A9F4</color>
+    <color name="third_color">#00BCD4</color>
+    <color name="forth_color">#009688</color>
+
+</resources>
